@@ -1,14 +1,14 @@
 # Vault (Folia Support)
 
-This is a custom fork of [Vault](https://github.com/MilkBowl/Vault) updated to support [Folia](https://github.com/PaperMC/Folia) and modern Minecraft versions (1.21.1+).
+This is a custom fork of [Vault](https://github.com/MilkBowl/Vault) updated to support [Folia](https://github.com/PaperMC/Folia) and modern Minecraft versions (26.1.2).
 
 Vault is a Chat, Permissions & Economy API to allow plugins to more easily hook into these systems without needing to hook each individual system themselves.
 
 ## 🚀 Features
 
-*   **Folia Support:** Fully compatible with Folia's regionized threading model.
-*   **Modern Server Support:** Updated for Minecraft 1.21.1 and Java 21.
-*   **API Compatibility:** Maintains the standard Vault API for seamless plugin integration.
+- **Folia Support:** Fully compatible with Folia's regionized threading model.
+- **Modern Server Support:** Updated for Minecraft 26.1.2 and Java 21.
+- **API Compatibility:** Maintains the standard Vault API for seamless plugin integration.
 
 ## 📦 Installation
 
@@ -43,7 +43,7 @@ Add the JitPack repository:
 
 ## 🤝 Credits
 
-*   **Original Author:** [MilkBowl](https://github.com/MilkBowl) (The original Vault team)
-*   **Folia Support Update:** h2ph
+- **Original Author:** [MilkBowl](https://github.com/MilkBowl) (The original Vault team)
+- **Folia Support Update:** h2ph
 
 This project is open-source and based on the original Vault repository.

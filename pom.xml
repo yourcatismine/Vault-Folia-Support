@@ -4,7 +4,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<bukkitVersion>1.21.11-R0.1-SNAPSHOT</bukkitVersion>
+		<bukkitVersion>26.1.2.build.61-stable</bukkitVersion>
 		<mainClass>${project.groupId}.${project.artifactId}</mainClass>
 		<api.version>1.7</api.version>
 	</properties>
@@ -72,7 +72,7 @@
 		<dependency>
 			<groupId>io.papermc.paper</groupId>
 			<artifactId>paper-api</artifactId>
-			<version>1.21.1-R0.1-SNAPSHOT</version>
+			<version>${bukkitVersion}</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
